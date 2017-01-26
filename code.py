@@ -47,4 +47,5 @@ class testCases(unittest.testCases):
         self.assertEqual(check_leap_year(1900), False)
 
 
-unittest.main(verbosity=2)
+if __name___ == "__main__":
+    unittest.main(verbosity=2)
