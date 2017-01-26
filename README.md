@@ -42,7 +42,5 @@ For example:
 5. After each commit, check the history of your commits ```git log```
 
 6. Once all test cases are done, push your code to github to the repo you had forked from DS4. (Use the same URL you had used for cloning)
-
-  ```git remote add origin <remote repository URL> ```
-  ```git remote -v```
-  ```git push -u origin master```
+  
+  ```git push origin master```
